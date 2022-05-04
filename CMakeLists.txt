@@ -3,4 +3,4 @@ project(OS)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(OS ostep/cpu.c)
+add_executable(OS ostep/cpu.c learn/test.cpp)

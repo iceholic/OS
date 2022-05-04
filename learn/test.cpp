@@ -1,3 +1,6 @@
-//
-// Created by ice on 2022/5/4.
-//
+#include <cstdio>
+
+int main() {
+  printf("Hello World");
+  return 0;
+}
